@@ -1,0 +1,23 @@
+{
+  "name": "elm-todomvc",
+  "version": "1.0.0",
+  "description": "All of the Elm code lives in `src/Main.elm` and relies on the [elm/html][html] library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "elm-live src/Main.elm -- --output=elm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evancz/elm-todomvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evancz/elm-todomvc/issues"
+  },
+  "homepage": "https://github.com/evancz/elm-todomvc#readme",
+  "devDependencies": {
+    "elm-live": "^4.0.2"
+  }
+}
